@@ -1,17 +1,64 @@
-<h1 align="center">Hi 👋, I'm Josué</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+# 👋 Hola, soy Josué Pico
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyupix" alt="jyupix" /></a> </p>
+🌱 **Desarrollador Backend Junior** con interés en la creación de **APIs REST** utilizando buenas prácticas y tecnologías modernas.  
+He trabajado con **Node.js**, **NestJS** y **Express**, y cuento con bases en **HTML, CSS, JavaScript y Python**, lo que me permite entender el flujo completo de una aplicación.  
+Me motiva aprender continuamente, mejorar mi código y crecer profesionalmente en entornos colaborativos.
 
-- 🌱 I’m currently learning **JS and Node.js**
+---
 
-- 📫 How to reach me **??????@gmail.com**
+## 🧠 Sobre mí
+- 💻 Enfoque en **desarrollo backend**
+- 🌐 Conocimientos base de **frontend**
+- 📘 En proceso constante de aprendizaje
+- 🧩 Interés por escribir código claro y mantenible
+- 🤝 Abierto a recibir feedback y trabajar en equipo
+- 🚀 Motivado por enfrentar nuevos retos técnicos
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-``
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyupix&show_icons=true&locale=en&layout=compact" alt="jyupix" /></p>
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes y fundamentos web
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Seguridad y validaciones
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Validation](https://img.shields.io/badge/Validation-4CAF50?style=for-the-badge)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🔑 Lo que estoy practicando
+- Desarrollo de **APIs REST**
+- Uso de **DTOs y validaciones**
+- Manejo básico de **middlewares**
+- Autenticación con **JWT**
+- Manejo de errores en backend
+- Integración con **bases de datos**
+- Estructuración de proyectos en NestJS
+
+---
+
+## 📫 Contacto
+- 💼 LinkedIn: *https://www.linkedin.com/in/josu%C3%A9-pico-fl%C3%B3rez-b030a8228/*
+
+---
+
+⭐ Siempre aprendiendo y mejorando como desarrollador backend.
