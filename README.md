@@ -7,16 +7,10 @@ I'm highly motivated to grow professionally, write clean maintainable code, and 
 ---
 
 ## 🎯 Professional Profile
-- Backend-focused developer with practical experience in **end-to-end API design and implementation**
-- Strong foundation in **TypeScript** and the **Node.js ecosystem**
-- Experience implementing **authentication and authorization** with JWT and HTTP-only cookies
-- Familiar with **NestJS architecture** and modular project structures with **Express**
-- Comfortable working with **PostgreSQL** and **Prisma ORM**, including migrations and relational modeling
-- Experience with **cloud media storage** using Cloudinary (image uploads, transformations)
-- Familiar with **structured logging** using Winston, including per-request tracing
-- API documentation with **Swagger/OpenAPI** (swagger-jsdoc + swagger-ui-express)
-- Applied **rate limiting**, **Zod validation**, and **role-based access control**
-- Team-oriented, proactive, and open to continuous feedback
+- Strong foundation in **TypeScript** and **Node.js** — building secure APIs with JWT auth, HTTP-only cookies, email verification, and role-based access control
+- Comfortable with **PostgreSQL** and **Prisma ORM**, including migrations, relational modeling, and soft deletes
+- Experience with cloud services: **Cloudinary** for media storage and **Resend** for transactional emails
+- Familiar with production-grade concerns: **structured logging** (Winston), **Swagger/OpenAPI** docs, **rate limiting**, and **Zod validation**
 
 ---
 
@@ -61,7 +55,8 @@ I'm highly motivated to grow professionally, write clean maintainable code, and 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/josu%C3%A9-pico-fl%C3%B3rez-b030a8228/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-pico-fl%C3%B3rez-b030a8228/)
 
 ---
 
