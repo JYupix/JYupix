@@ -60,13 +60,6 @@ I'm highly motivated to grow professionally, write clean maintainable code, and 
 
 ---
 
-## 📊 GitHub Stats
-
-![JYupix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JYupix&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JYupix&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/josu%C3%A9-pico-fl%C3%B3rez-b030a8228/
 
